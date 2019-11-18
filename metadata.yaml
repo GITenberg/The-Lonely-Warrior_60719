@@ -1,11 +1,16 @@
 _repo: The-Lonely-Warrior_60719
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 60719-h/images/cover.jpg
 creator:
   author:
     agent_name: Washburn, Claude Carlos
     gutenberg_agent_id: '51100'
     url: http://www.gutenberg.org/2009/agents/51100
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60719#The-Lonely-Warrior
 gutenberg_issued: '2019-11-17'
 gutenberg_type: Text
 identifiers:
